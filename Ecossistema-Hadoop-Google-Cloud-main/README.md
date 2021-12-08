@@ -4,8 +4,6 @@ Código criado para utilização junto a plataforma da Digital Innovation One
 
 <p align="center"><img src="./DIO.png" width="500"></p>
 
-
-
 ## Desafio GCP Dataproc
 
 O desafio faz parte do curso na plataforma da Digital Innovation One:
@@ -39,5 +37,4 @@ O desafio consiste em efetuar um processamento de dados utilizando o produto Dat
 NOTA: Se o Job mostrar um WARN de Interrupt, basta ignorar. Existe um bug no Hadoop que é conhecido. Isso não impacta no processamento.
 
 Qualquer outra dúvida, informação ou sugestão, fique a vontade para entrar em contato.
-
 
